@@ -7,4 +7,9 @@ public class Sample {
 		System.out.println("Master");
 	}
 
+	private void branchA() {
+
+		System.out.println("branchA");
+
+	}
 }
